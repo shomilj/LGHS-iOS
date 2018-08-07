@@ -1,0 +1,228 @@
+PODS:
+  - BarcodeScanner (4.1.3)
+  - Crashlytics (3.10.2):
+    - Fabric (~> 1.7.7)
+  - DynamicBlurView (2.0.2)
+  - DZNEmptyDataSet (1.8.1)
+  - Eureka (4.1.1)
+  - Fabric (1.7.7)
+  - FeedKit (8.0.0)
+  - Firebase/Auth (5.2.0):
+    - Firebase/CoreOnly
+    - FirebaseAuth (= 5.0.1)
+  - Firebase/Core (5.2.0):
+    - Firebase/CoreOnly
+    - FirebaseAnalytics (= 5.0.1)
+  - Firebase/CoreOnly (5.2.0):
+    - FirebaseCore (= 5.0.3)
+  - Firebase/Database (5.2.0):
+    - Firebase/CoreOnly
+    - FirebaseDatabase (= 5.0.1)
+  - Firebase/Messaging (5.2.0):
+    - Firebase/CoreOnly
+    - FirebaseMessaging (= 3.0.2)
+  - Firebase/Performance (5.2.0):
+    - Firebase/Core
+    - FirebasePerformance (= 2.0.0)
+  - Firebase/RemoteConfig (5.2.0):
+    - Firebase/Core
+    - FirebaseRemoteConfig (= 3.0.0)
+  - FirebaseABTesting (2.0.0):
+    - FirebaseCore (~> 5.0)
+    - Protobuf (~> 3.5)
+  - FirebaseAnalytics (5.0.1):
+    - FirebaseCore (~> 5.0)
+    - FirebaseInstanceID (~> 3.0)
+    - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
+    - nanopb (~> 0.3)
+  - FirebaseAuth (5.0.1):
+    - FirebaseCore (~> 5.0)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - FirebaseCore (5.0.3):
+    - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
+  - FirebaseDatabase (5.0.1):
+    - FirebaseCore (~> 5.0)
+    - leveldb-library (~> 1.18)
+  - FirebaseInstanceID (3.1.0):
+    - FirebaseCore (~> 5.0)
+  - FirebaseMessaging (3.0.2):
+    - FirebaseCore (~> 5.0)
+    - FirebaseInstanceID (~> 3.0)
+    - GoogleToolboxForMac/Logger (~> 2.1)
+    - Protobuf (~> 3.1)
+  - FirebasePerformance (2.0.0):
+    - FirebaseAnalytics (~> 5.0)
+    - FirebaseInstanceID (~> 3.0)
+    - FirebaseSwizzlingUtilities/ISASwizzling (~> 2.0)
+    - FirebaseSwizzlingUtilities/MethodSwizzling (~> 2.0)
+    - GoogleToolboxForMac/Logger (~> 2.1)
+    - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
+    - GTMSessionFetcher/Core (~> 1.1)
+    - Protobuf (~> 3.5)
+  - FirebaseRemoteConfig (3.0.0):
+    - FirebaseABTesting (~> 2.0)
+    - FirebaseAnalytics (~> 5.0)
+    - FirebaseCore (~> 5.0)
+    - FirebaseInstanceID (~> 3.0)
+    - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
+    - Protobuf (~> 3.5)
+  - FirebaseSwizzlingUtilities/ISASwizzling (2.0.0)
+  - FirebaseSwizzlingUtilities/MethodSwizzling (2.0.0):
+    - FirebaseCore (~> 5.0)
+  - ForecastIO (5.0.0)
+  - GoogleSignIn (4.1.2):
+    - "GoogleToolboxForMac/NSDictionary+URLArguments (~> 2.1)"
+    - "GoogleToolboxForMac/NSString+URLArguments (~> 2.1)"
+    - GTMOAuth2 (~> 1.0)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GoogleToolboxForMac/DebugUtils (2.1.4):
+    - GoogleToolboxForMac/Defines (= 2.1.4)
+  - GoogleToolboxForMac/Defines (2.1.4)
+  - GoogleToolboxForMac/Logger (2.1.4):
+    - GoogleToolboxForMac/Defines (= 2.1.4)
+  - "GoogleToolboxForMac/NSData+zlib (2.1.4)":
+    - GoogleToolboxForMac/Defines (= 2.1.4)
+  - "GoogleToolboxForMac/NSDictionary+URLArguments (2.1.4)":
+    - GoogleToolboxForMac/DebugUtils (= 2.1.4)
+    - GoogleToolboxForMac/Defines (= 2.1.4)
+    - "GoogleToolboxForMac/NSString+URLArguments (= 2.1.4)"
+  - "GoogleToolboxForMac/NSString+URLArguments (2.1.4)"
+  - GTMOAuth2 (1.1.6):
+    - GTMSessionFetcher (~> 1.1)
+  - GTMSessionFetcher (1.1.15):
+    - GTMSessionFetcher/Full (= 1.1.15)
+  - GTMSessionFetcher/Core (1.1.15)
+  - GTMSessionFetcher/Full (1.1.15):
+    - GTMSessionFetcher/Core (= 1.1.15)
+  - Iconic (1.3)
+  - leveldb-library (1.20)
+  - MarqueeLabel/Swift (3.1.6)
+  - MXLCalendarManager (1.0.4)
+  - nanopb (0.3.8):
+    - nanopb/decode (= 0.3.8)
+    - nanopb/encode (= 0.3.8)
+  - nanopb/decode (0.3.8)
+  - nanopb/encode (0.3.8)
+  - NVActivityIndicatorView (4.2.1):
+    - NVActivityIndicatorView/Presenter (= 4.2.1)
+  - NVActivityIndicatorView/Presenter (4.2.1)
+  - Pageboy (2.5.1)
+  - PopupDialog (0.7.1):
+    - DynamicBlurView (~> 2.0)
+  - Protobuf (3.6.0)
+  - RSBarcodes_Swift (4.0.0)
+  - SideMenu (4.0.0)
+  - SkeletonView (1.2.1)
+
+DEPENDENCIES:
+  - BarcodeScanner
+  - Crashlytics (~> 3.10.2)
+  - DZNEmptyDataSet
+  - Eureka
+  - Fabric (~> 1.7.7)
+  - FeedKit
+  - Firebase/Auth
+  - Firebase/Core
+  - Firebase/Database
+  - Firebase/Messaging
+  - Firebase/Performance
+  - Firebase/RemoteConfig
+  - ForecastIO
+  - GoogleSignIn
+  - Iconic (from `https://github.com/zvving/Iconic.git`, branch `pod_config`)
+  - MarqueeLabel/Swift
+  - MXLCalendarManager
+  - NVActivityIndicatorView
+  - Pageboy (~> 2.0)
+  - PopupDialog (~> 0.7)
+  - RSBarcodes_Swift (~> 4.0.0)
+  - SideMenu
+  - SkeletonView
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - BarcodeScanner
+    - Crashlytics
+    - DynamicBlurView
+    - DZNEmptyDataSet
+    - Eureka
+    - Fabric
+    - FeedKit
+    - Firebase
+    - FirebaseABTesting
+    - FirebaseAnalytics
+    - FirebaseAuth
+    - FirebaseCore
+    - FirebaseDatabase
+    - FirebaseInstanceID
+    - FirebaseMessaging
+    - FirebasePerformance
+    - FirebaseRemoteConfig
+    - FirebaseSwizzlingUtilities
+    - ForecastIO
+    - GoogleSignIn
+    - GoogleToolboxForMac
+    - GTMOAuth2
+    - GTMSessionFetcher
+    - leveldb-library
+    - MarqueeLabel
+    - MXLCalendarManager
+    - nanopb
+    - NVActivityIndicatorView
+    - Pageboy
+    - PopupDialog
+    - Protobuf
+    - RSBarcodes_Swift
+    - SideMenu
+    - SkeletonView
+
+EXTERNAL SOURCES:
+  Iconic:
+    :branch: pod_config
+    :git: https://github.com/zvving/Iconic.git
+
+CHECKOUT OPTIONS:
+  Iconic:
+    :commit: 9e9be59f4b84c0eadbd312282c35043cd9530aae
+    :git: https://github.com/zvving/Iconic.git
+
+SPEC CHECKSUMS:
+  BarcodeScanner: fce1ad2b3f28286b1ab5091fe0979789618bee27
+  Crashlytics: 0360624eea1c978a743feddb2fb1ef8b37fb7a0d
+  DynamicBlurView: aa6db4defc6e537eb86fc5e58dd3991666178399
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  Eureka: b88fb930e42c79f8c03c373d0fcdc28c1d6c50ed
+  Fabric: bda89e242bce1b7b8ab264248cf3407774ce0095
+  FeedKit: 4a78f07adf7f0a224b904014678f1de82a7ffc21
+  Firebase: 25ed0412036d7d008568d1fb4d2e9d81ea8a0a2c
+  FirebaseABTesting: 1f50b8d50f5e3469eea54e7463a7b7fe221d1f5e
+  FirebaseAnalytics: b3628aea54c50464c32c393fb2ea032566e7ecc2
+  FirebaseAuth: 463b8ce33bd5d05f706dcd4615499e3212b4132b
+  FirebaseCore: a3c87242451633fff8490183898075ce77d168d2
+  FirebaseDatabase: 482bad9c2abd422bb2321194fb8c937e67426a89
+  FirebaseInstanceID: 05d779cbb97bd5bd5c51a38a903fc9cfe1b2454a
+  FirebaseMessaging: 6894b8fe0a0cf26c3b13dad729f1131654ae0bdb
+  FirebasePerformance: 1ec6c40e5dad2543ca4c4f25d15168bde6322c2c
+  FirebaseRemoteConfig: 3c57e4644bd6976b671ae0b725cd709f198bd1f5
+  FirebaseSwizzlingUtilities: 6c22677c50d0b6f5f0dc637c1233f13694a3003f
+  ForecastIO: 013d0110a0977712624973ceb425da1936b02acf
+  GoogleSignIn: d9ef55b10f0aa401a5de2747f59b725e4b9732ac
+  GoogleToolboxForMac: 91c824d21e85b31c2aae9bb011c5027c9b4e738f
+  GTMOAuth2: c77fe325e4acd453837e72d91e3b5f13116857b2
+  GTMSessionFetcher: 5fa5b80fd20e439ef5f545fb2cb3ca6c6714caa2
+  Iconic: 873ea0979c8180f9a16e2f25a94ead9cfc1a1951
+  leveldb-library: 08cba283675b7ed2d99629a4bc5fd052cd2bb6a5
+  MarqueeLabel: 0c41f08ef5773e29c0f71064a8fa788a2fd8b365
+  MXLCalendarManager: 3432fa4fb369d352f84a0874f69b198de70119ac
+  nanopb: 5601e6bca2dbf1ed831b519092ec110f66982ca3
+  NVActivityIndicatorView: 8068ba3ad39cb44cbaab25d89ff2546b3f092681
+  Pageboy: f0295ea949f0b0123a1b486fd347ea892d0078e0
+  PopupDialog: 39598b7d41719f5c025b4b70e62728bae7734fef
+  Protobuf: 0fc0ad8bec688b2a3017a139953e01374fedbd5f
+  RSBarcodes_Swift: b3e9801f448f50439f77ce7d0aeeb7aa4e9ebb19
+  SideMenu: 70ee5657df63ec3382660ec4ef470bf1cf5db07d
+  SkeletonView: 98a31213f9282076149e6eb23f46734604f02086
+
+PODFILE CHECKSUM: 6ed0bb94da89266a234ec29dffa490748ad288ee
+
+COCOAPODS: 1.5.0

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>newsFeed</key>
+	<string>https://elgatonews.wordpress.com/</string>
+	<key>campusMap</key>
+	<string>http://www.lghs.net/about_us/campus_map</string>
+	<key>canvas</key>
+	<string>https://lgsuhsd.instructure.com/login/canvas</string>
+	<key>dayCalendar</key>
+	<string>http://www.lghs.net/UserFiles/Servers/Server_87373/File/Quick%20Links/2017%20-%202018%20Orange%20&amp;%20Black%20Calendar.pdf</string>
+	<key>dailyAnnouncementMessageSubmit</key>
+	<string>https://docs.google.com/forms/d/e/1FAIpQLSc9BmzHUsIHYBxMai-PbriJ-ppA2qUwcU_BGz-FYb9eInfYWg/viewform</string>
+	<key>dailyAnnouncementJokeSubmit</key>
+	<string>https://docs.google.com/forms/d/e/1FAIpQLSdyaybdyZMCsWsikvdW8dmOj9n3SQ6DFcq_70qL1ZRyGs4Zrw/viewform</string>
+	<key>bellSchedule</key>
+	<string>http://www.lghs.net/UserFiles/Servers/Server_87373/Image/Students/BLOCK%20BELL%20SCHEDULE.pdf</string>
+	<key>twitterFeed</key>
+	<string>https://twitter.com/hashtag/golgcats?f=tweets</string>
+	<key>termsAndConditions</key>
+	<string>http://www.lghs.net/students/school_policies/technology_agreement</string>
+	<key>wetip</key>
+	<string>https://wetip.com/submit-anonymous-tip-2/</string>
+	<key>lgpdWebsite</key>
+	<string>https://www.losgatosca.gov/43/Police-Services</string>
+	<key>cassyForm</key>
+	<string>https://docs.google.com/forms/d/15qovy0EoLsL5_uXK0f7sG5RlE5NO95v5021H5Ltn0UY/viewform?ts=5a1c799b&amp;edit_requested=true</string>
+	<key>additionalHotlines</key>
+	<string>http://www.lghs.net/parents__community/c_a_s_s_y_services/hotlines_and_resources/</string>
+	<key>studentDirectory</key>
+	<string>https://lghshsc.membershiptoolkit.com/directory</string>
+	<key>staffDirectory</key>
+	<string>http://www.lghs.net/about_us/staff_directory</string>
+	<key>tutoringProgram</key>
+	<string>http://www.lghs.net/academics/tutoring</string>
+	<key>canvasSupport</key>
+	<string>https://docs.google.com/document/d/12b5TRspMzR0ITEZsr3GwLPDAR075lF7Tw3JjaZEDDjI/edit</string>
+	<key>passwordPortal</key>
+	<string>http://www.lghs.net/UserFiles/Servers/Server_87373/File/Password%20Portal%20Enrollment%20Instructions.pdf</string>
+	<key>wifiSupport</key>
+	<string>https://docs.google.com/document/d/12b5TRspMzR0ITEZsr3GwLPDAR075lF7Tw3JjaZEDDjI/edit</string>
+	<key>aeries</key>
+	<string>https://aeries.lgsuhsd.org/</string>
+	<key>weather</key>
+	<string>https://darksky.net/forecast/37.2234,-121.9766/us12/en</string>
+	<key>attendance</key>
+	<string>http://www.lghs.net/parents__community/attendance</string>
+</dict>
+</plist>

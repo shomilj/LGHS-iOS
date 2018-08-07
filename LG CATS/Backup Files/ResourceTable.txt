@@ -1,0 +1,65 @@
+Name	Description or Link	FontAwesomeIcon Name
+		
+Portals	Access to Aeries, Canvas, etc.	signin
+Aeries	https://aeries.lgsuhsd.org/	uniF2C3
+Naviance	https://connection.naviance.com/family-connection/auth/login/?hsid=lghs	_457
+Canvas	https://lgsuhsd.instructure.com/login/canvas/	spinner
+		
+Activities & Extracurriculars	Sports, music, leadership, etc.	music
+Athletics	https://losgatosathletics.com/	trophy
+Music	http://lghsmusic.org/	music
+Leadership	https://www.lghsactivities.org/	uniF1B1
+Performing Arts	http://lghs.net/cms/one.aspx?portalId=87457&pageId=2321007	f1fc
+		
+Peer to Peer Education	Link Crew, Reality Check, PAWS, etc.	_457
+Link Crew	http://lghs.net/cms/One.aspx?portalId=87457&pageId=2363526	uniF1E0
+Reality Check	http://lghs.net/cms/One.aspx?portalId=87457&pageId=2363501	ok
+PAWS	http://lghs.net/cms/One.aspx?portalId=87457&pageId=2363469	uniF1B1
+Unconditionally Positive (UP)	http://lghs.net/cms/One.aspx?portalId=87457&pageId=2363592	smile
+		
+Staff	Staff directory, administration, library, etc.	_402
+Administration	http://lghs.net/about_us/administration/	_387
+Staff Directory	http://lghs.net/about_us/staff_directory	uniF2BA
+Technology Department	http://lghs.net/about_us/technology	desktop
+Library Staff	http://www.lghs.net/academics/library	book
+		
+Courses	Sequence charts, elective options, course lists, etc.	_481
+Sequence Charts	http://lghs.net/cms/One.aspx?portalId=87457&pageId=2359475	sitemap
+Course Descriptions	http://lghs.net/cms/One.aspx?portalId=87457&pageId=2359478	folderOpenAlt
+AP/Honors Courses	http://lghs.net/cms/One.aspx?portalId=87457&pageId=2359483	trophy
+Graduation Requirements	http://lghs.net/cms/One.aspx?portalId=87457&pageId=2359529	_388
+Elective Options	http://lghs.net/cms/One.aspx?portalId=87457&pageId=5113346	_592
+UC/CSU Eligible Courses	http://admission.universityofcalifornia.edu/counselors/files/csu-uc-a-g-comparison-matrix.pdf?mc_cid=e88f5fb8a4&mc_eid=12dc0b0f50	refresh
+		
+Library	Catalog, summer reading lists, and more.	book
+Homepage	http://www.lghs.net/academics/library/library_info/	home
+Catalog	https://lgsuhsd.follettdestiny.com/quest/servlet/presentquestform.do?site=100&context=saas47_0435750&alreadyValidated=true	list
+Destiny Login	http://www.lghs.net/academics/library/library_info/destiny_login/	signin
+Summer Reading Lists	http://www.lghs.net/academics/library/library_info/summer_reading_list/	check
+Digital Resources	http://www.lghs.net/academics/library/library_info/digital_resources/	laptop
+MLA Format Guide	http://www.lghs.net/academics/library/library_info/m_l_a_format_citation_guide/	fileTextAlt
+		
+Grade-Level Information	View information specific to your grade.	f263
+Freshmen	http://www.lghs.net/guidance_home/grade_level_information/freshman_section	--
+Sophomores	http://www.lghs.net/guidance_home/grade_level_information/sophomore_section	--
+Juniors	http://www.lghs.net/guidance_home/grade_level_information/junior_section	--
+Seniors	http://www.lghs.net/guidance_home/grade_level_information/seniors_section	--
+		
+Policies	Academic integrity, attendance, guidance, etc.	file_text
+Academic Integrity Policy	http://lghs.net/cms/One.aspx?portalId=87457&pageId=2363120	uniF2B5
+Attendance Policy	http://lghs.net/cms/One.aspx?portalId=87457&pageId=2362960	_531
+Technology Agreement	http://lghs.net/UserFiles/Servers/Server_87373/File/Students/School%20Policies/aup.pdf	desktop
+Grading Policy	http://lghs.net/cms/One.aspx?portalId=87457&pageId=2360898	pencil
+Dress Code	http://lghs.net/cms/One.aspx?portalId=87457&pageId=2363099	f27e
+Code of Conduct	http://lghs.net/cms/One.aspx?portalId=87457&pageId=2362992	f1ab
+Guidance Policy	http://lghs.net/UserFiles/Servers/Server_87373/File/Guidance/Guidance%20Home/Policies%20&%20Procedures/Guidance%20Policies-2013-14.pdf	sitemap
+Course Change Policy	http://lghs.net/cms/one.aspx?pageId=2318130	exchange
+Notification to Parents	http://lghs.net/cms/One.aspx?portalId=87457&pageId=2363107	envelope
+		
+Community	CASSY, CASA, Job Shadow, etc.	group
+CASSY	http://www.lghs.net/cms/one.aspx?pageId=2319885	userMd
+CASA	http://www.casalg.org/	_457
+District Office	http://www.lgsuhsd.org/	building
+Job Shadow Program	https://www.myjobshadow.com/	briefcase
+LGHS Home and School Club	https://lghshsc.membershiptoolkit.com/login?r=%2F	home
+New Millenium Foundation (NMF)	http://lghsnmf.org/	gift

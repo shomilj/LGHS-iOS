@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>feedbackForm</key>
+	<string>https://goo.gl/forms/7AkJbtE232ItutmI3</string>
+	<key>adminTeacherRosterTemplate</key>
+	<string>https://docs.google.com/spreadsheets/d/1njCZIcsdkZVDeEpVw6wA6hSEtAWAh3DP4VgynrfovJU/copy</string>
+	<key>adminClubListTemplate</key>
+	<string>https://docs.google.com/spreadsheets/d/18w5UtF1Hf3xzrkFeQDi46JPGOoSCQQYvW3TKCYqyOgE/copy</string>
+	<key>adminStudentRosterTemplate</key>
+	<string>https://docs.google.com/spreadsheets/d/1fkTxjVvVS-pVh9J28qtuLtjATgzQE6UG5DPeJIAx1_c/copy</string>
+	<key>adminDayCalendarTemplate</key>
+	<string>https://docs.google.com/spreadsheets/d/1gpyY-DbjeDWkRWu1pqh18-3CS7Wgmc0i86flLjBijps/copy</string>
+	<key>dailyAnnouncementsFeed</key>
+	<string>https://docs.google.com/spreadsheets/d/1SXH8ZpstIHCLuSl3JpPtxlGteopbdy6RouHjJI_gA-M/export?format=tsv</string>
+	<key>calendarSportsFeed</key>
+	<string>http://www.lghs.net/parents__community/school_calendar</string>
+	<key>calendarCollegesFeed</key>
+	<string>http://www.lghs.net/parents__community/school_calendar</string>
+	<key>calendarMainFeed</key>
+	<string>http://www.lghs.net/parents__community/school_calendar</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>linkBackend</key>
+	<string>https://docs.google.com/spreadsheets/d/19vfUmdECU436hFn057MummlDcn-dH-TOK9GX9vff_lU/edit#gid=0</string>
+	<key>linkResources</key>
+	<string>https://docs.google.com/spreadsheets/d/1rlH471GSvefe_D4qQ8hQhX5UZ0001fiTrPHBk4rR-lI/edit?usp=sharing</string>
+	<key>linkFrontend</key>
+	<string>https://docs.google.com/spreadsheets/d/1hb1KOBwpJxjj3atYJ2ke0yPHml8cFLW2IDlfW9voEM4/edit#gid=0</string>
+</dict>
+</plist>

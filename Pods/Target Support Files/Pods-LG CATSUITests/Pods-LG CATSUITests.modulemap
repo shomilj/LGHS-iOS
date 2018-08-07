@@ -1,0 +1,6 @@
+framework module Pods_LG_CATSUITests {
+  umbrella header "Pods-LG CATSUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
