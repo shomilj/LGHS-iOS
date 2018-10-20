@@ -140,7 +140,7 @@ DEPENDENCIES:
   - SkeletonView
 
 SPEC REPOS:
-  https://github.com/CocoaPods/Specs.git:
+  https://github.com/cocoapods/specs.git:
     - BarcodeScanner
     - Crashlytics
     - DynamicBlurView
@@ -223,6 +223,6 @@ SPEC CHECKSUMS:
   SideMenu: 70ee5657df63ec3382660ec4ef470bf1cf5db07d
   SkeletonView: 98a31213f9282076149e6eb23f46734604f02086
 
-PODFILE CHECKSUM: 6ed0bb94da89266a234ec29dffa490748ad288ee
+PODFILE CHECKSUM: b2c4846a687640325cdc16586baaa0926b1dd3d5
 
-COCOAPODS: 1.5.0
+COCOAPODS: 1.5.3

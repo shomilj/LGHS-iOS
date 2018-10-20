@@ -8,14 +8,16 @@
 
 /* Begin PBXBuildFile section */
 		165A9E9314EE9640FE777E21 /* Pods_LG_CATSTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17A1BE507A7C56F97960EBF3 /* Pods_LG_CATSTests.framework */; };
+		16A9D6722D49D5B93276D723 /* Pods_BerkeleyTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DDEED69DA44CC97B7E8A3E0D /* Pods_BerkeleyTests.framework */; };
 		23F1E67E8568547B9833F8A9 /* Pods_LG_CATSUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8744A352B1D5C6EE30F8D4A9 /* Pods_LG_CATSUITests.framework */; };
+		5A133B0F216FE017006F78E7 /* dummybarcode.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5A133B0E216FE016006F78E7 /* dummybarcode.jpg */; };
+		5A140448216EB2AD00B6A5EE /* BerkeleySeal.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A140447216EB2AD00B6A5EE /* BerkeleySeal.png */; };
+		5A14044A216EB8CA00B6A5EE /* DummyProfilePic.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5A140449216EB8CA00B6A5EE /* DummyProfilePic.jpeg */; };
 		5A793D6F210CEB7F00CC9E7A /* ACStudentListAddVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A793D6E210CEB7F00CC9E7A /* ACStudentListAddVC.swift */; };
 		5A9DFC89210C2580009C0ECE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A9DFC87210C2580009C0ECE /* Main.storyboard */; };
-		5A9DFC8C210C2580009C0ECE /* LG_CATS.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5A9DFC8A210C2580009C0ECE /* LG_CATS.xcdatamodeld */; };
 		5A9DFC91210C2583009C0ECE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A9DFC8F210C2583009C0ECE /* LaunchScreen.storyboard */; };
 		5A9DFC9C210C2584009C0ECE /* LG_CATSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A9DFC9B210C2584009C0ECE /* LG_CATSTests.swift */; };
 		5A9DFCA7210C2584009C0ECE /* LG_CATSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A9DFCA6210C2584009C0ECE /* LG_CATSUITests.swift */; };
-		5A9DFD87210C4CF4009C0ECE /* LGLetters.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5A9DFD7E210C4CF4009C0ECE /* LGLetters.jpeg */; };
 		5A9DFD88210C4CF4009C0ECE /* LGHSLogo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5A9DFD7F210C4CF4009C0ECE /* LGHSLogo.jpg */; };
 		5A9DFD89210C4CF4009C0ECE /* LGHSFrontLawn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5A9DFD80210C4CF4009C0ECE /* LGHSFrontLawn.jpg */; };
 		5A9DFD8A210C4CF4009C0ECE /* CardIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A9DFD82210C4CF4009C0ECE /* CardIcon.png */; };
@@ -102,10 +104,13 @@
 		5A9DFFB1210C528C009C0ECE /* WelcomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A9DFF68210C528C009C0ECE /* WelcomeVC.swift */; };
 		5A9DFFB2210C528C009C0ECE /* SelectExperienceVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A9DFF69210C528C009C0ECE /* SelectExperienceVC.swift */; };
 		5AB96DED210CE52A00F1C5AE /* ACStudentListTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AB96DEC210CE52A00F1C5AE /* ACStudentListTVC.swift */; };
-		5ABFAFC121137F4C00B250E4 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5ABFAFC021137F4C00B250E4 /* GoogleService-Info.plist */; };
+		5AD7CE2F216C3A9600B27B1D /* Berkeley.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5AD7CE2D216C3A9600B27B1D /* Berkeley.xcdatamodeld */; };
+		5AD7CE31216C3CED00B27B1D /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5AD7CE30216C3CED00B27B1D /* GoogleService-Info.plist */; };
+		5AD7CE33216C400F00B27B1D /* BerkeleyLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 5AD7CE32216C400E00B27B1D /* BerkeleyLogo.png */; };
 		5AF34F4921166BBB00FA6477 /* CalEventDetailTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AF34F4821166BBB00FA6477 /* CalEventDetailTVC.swift */; };
 		5AF61DE4211123BA00D7BF59 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AF61DE3211123BA00D7BF59 /* AdSupport.framework */; };
-		92FA5A708F59E00BC4DE3986 /* Pods_LG_CATS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 94D3C55E50C009FFB0C9EDD6 /* Pods_LG_CATS.framework */; };
+		631E29F94042A3E19B8E7463 /* Pods_Berkeley.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4313984508B59597CC0C0997 /* Pods_Berkeley.framework */; };
+		B9231D1500AD06F0A6A67C2C /* Pods_BerkeleyUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7B1AD331385A27B6C53B62D4 /* Pods_BerkeleyUITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -126,22 +131,25 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		07A6FB1C11C003E71494A9FC /* Pods-BerkeleyUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BerkeleyUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-BerkeleyUITests/Pods-BerkeleyUITests.release.xcconfig"; sourceTree = "<group>"; };
 		17A1BE507A7C56F97960EBF3 /* Pods_LG_CATSTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LG_CATSTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4313984508B59597CC0C0997 /* Pods_Berkeley.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Berkeley.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4CB4B0582BAB969C396EAF71 /* Pods-LG CATSUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LG CATSUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-LG CATSUITests/Pods-LG CATSUITests.release.xcconfig"; sourceTree = "<group>"; };
-		5A793D6D210CEAA300CC9E7A /* LG CATS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "LG CATS.entitlements"; sourceTree = "<group>"; };
+		5A133B0E216FE016006F78E7 /* dummybarcode.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dummybarcode.jpg; sourceTree = "<group>"; };
+		5A140447216EB2AD00B6A5EE /* BerkeleySeal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BerkeleySeal.png; sourceTree = "<group>"; };
+		5A140449216EB8CA00B6A5EE /* DummyProfilePic.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DummyProfilePic.jpeg; sourceTree = "<group>"; };
+		5A793D6D210CEAA300CC9E7A /* Berkeley.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Berkeley.entitlements; sourceTree = "<group>"; };
 		5A793D6E210CEB7F00CC9E7A /* ACStudentListAddVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ACStudentListAddVC.swift; sourceTree = "<group>"; };
-		5A9DFC80210C2580009C0ECE /* LG CATS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LG CATS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A9DFC80210C2580009C0ECE /* Berkeley.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Berkeley.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A9DFC88210C2580009C0ECE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		5A9DFC8B210C2580009C0ECE /* LG_CATS.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = LG_CATS.xcdatamodel; sourceTree = "<group>"; };
 		5A9DFC90210C2583009C0ECE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5A9DFC92210C2583009C0ECE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5A9DFC97210C2584009C0ECE /* LG CATSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "LG CATSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A9DFC97210C2584009C0ECE /* BerkeleyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BerkeleyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A9DFC9B210C2584009C0ECE /* LG_CATSTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LG_CATSTests.swift; sourceTree = "<group>"; };
 		5A9DFC9D210C2584009C0ECE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5A9DFCA2210C2584009C0ECE /* LG CATSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "LG CATSUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A9DFCA2210C2584009C0ECE /* BerkeleyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BerkeleyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A9DFCA6210C2584009C0ECE /* LG_CATSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LG_CATSUITests.swift; sourceTree = "<group>"; };
 		5A9DFCA8210C2584009C0ECE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5A9DFD7E210C4CF4009C0ECE /* LGLetters.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = LGLetters.jpeg; sourceTree = "<group>"; };
 		5A9DFD7F210C4CF4009C0ECE /* LGHSLogo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = LGHSLogo.jpg; sourceTree = "<group>"; };
 		5A9DFD80210C4CF4009C0ECE /* LGHSFrontLawn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = LGHSFrontLawn.jpg; sourceTree = "<group>"; };
 		5A9DFD82210C4CF4009C0ECE /* CardIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CardIcon.png; sourceTree = "<group>"; };
@@ -228,16 +236,25 @@
 		5A9DFF68210C528C009C0ECE /* WelcomeVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeVC.swift; sourceTree = "<group>"; };
 		5A9DFF69210C528C009C0ECE /* SelectExperienceVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SelectExperienceVC.swift; sourceTree = "<group>"; };
 		5AB96DEC210CE52A00F1C5AE /* ACStudentListTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ACStudentListTVC.swift; sourceTree = "<group>"; };
-		5ABFAFC021137F4C00B250E4 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		5AD7CE2E216C3A9600B27B1D /* LG_CATS.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = LG_CATS.xcdatamodel; sourceTree = "<group>"; };
+		5AD7CE30216C3CED00B27B1D /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		5AD7CE32216C400E00B27B1D /* BerkeleyLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BerkeleyLogo.png; sourceTree = "<group>"; };
 		5AF34F4821166BBB00FA6477 /* CalEventDetailTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalEventDetailTVC.swift; sourceTree = "<group>"; };
 		5AF61DE3211123BA00D7BF59 /* AdSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AdSupport.framework; path = System/Library/Frameworks/AdSupport.framework; sourceTree = SDKROOT; };
 		6A08E5E3335BA5790889DDA5 /* Pods-LG CATSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LG CATSTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LG CATSTests/Pods-LG CATSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		7B1AD331385A27B6C53B62D4 /* Pods_BerkeleyUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BerkeleyUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		82DE612EA636C7FF86996A91 /* Pods-LG CATS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LG CATS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LG CATS/Pods-LG CATS.debug.xcconfig"; sourceTree = "<group>"; };
 		835DB1F3A58EE5AE60C87EF2 /* Pods-LG CATSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LG CATSTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-LG CATSTests/Pods-LG CATSTests.release.xcconfig"; sourceTree = "<group>"; };
 		8744A352B1D5C6EE30F8D4A9 /* Pods_LG_CATSUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LG_CATSUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		929627240BEEB0CD4B477E91 /* Pods-LG CATSUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LG CATSUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LG CATSUITests/Pods-LG CATSUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		94D3C55E50C009FFB0C9EDD6 /* Pods_LG_CATS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LG_CATS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A2365B132528681346742CF8 /* Pods-Berkeley.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Berkeley.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Berkeley/Pods-Berkeley.debug.xcconfig"; sourceTree = "<group>"; };
+		A2FDA6C421773CB351082CD8 /* Pods-BerkeleyUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BerkeleyUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BerkeleyUITests/Pods-BerkeleyUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		A78DC517FD4E5AC5C0FE4FB7 /* Pods-LG CATS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LG CATS.release.xcconfig"; path = "Pods/Target Support Files/Pods-LG CATS/Pods-LG CATS.release.xcconfig"; sourceTree = "<group>"; };
+		CDE1DF4CDE535203B95AC52F /* Pods-BerkeleyTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BerkeleyTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-BerkeleyTests/Pods-BerkeleyTests.release.xcconfig"; sourceTree = "<group>"; };
+		DDEED69DA44CC97B7E8A3E0D /* Pods_BerkeleyTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BerkeleyTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E8CBB880C28F07925F83197F /* Pods-BerkeleyTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BerkeleyTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BerkeleyTests/Pods-BerkeleyTests.debug.xcconfig"; sourceTree = "<group>"; };
+		F386851822181D127BC2764C /* Pods-Berkeley.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Berkeley.release.xcconfig"; path = "Pods/Target Support Files/Pods-Berkeley/Pods-Berkeley.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -246,7 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5AF61DE4211123BA00D7BF59 /* AdSupport.framework in Frameworks */,
-				92FA5A708F59E00BC4DE3986 /* Pods_LG_CATS.framework in Frameworks */,
+				631E29F94042A3E19B8E7463 /* Pods_Berkeley.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -255,6 +272,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				165A9E9314EE9640FE777E21 /* Pods_LG_CATSTests.framework in Frameworks */,
+				16A9D6722D49D5B93276D723 /* Pods_BerkeleyTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,6 +281,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				23F1E67E8568547B9833F8A9 /* Pods_LG_CATSUITests.framework in Frameworks */,
+				B9231D1500AD06F0A6A67C2C /* Pods_BerkeleyUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,9 +291,9 @@
 		5A9DFC77210C2580009C0ECE = {
 			isa = PBXGroup;
 			children = (
-				5A9DFC82210C2580009C0ECE /* LG CATS */,
-				5A9DFC9A210C2584009C0ECE /* LG CATSTests */,
-				5A9DFCA5210C2584009C0ECE /* LG CATSUITests */,
+				5A9DFC82210C2580009C0ECE /* Berkeley */,
+				5A9DFC9A210C2584009C0ECE /* BerkeleyTests */,
+				5A9DFCA5210C2584009C0ECE /* BerkeleyUITests */,
 				5A9DFC81210C2580009C0ECE /* Products */,
 				CCBA7FEDF4A10FCE7E3BB6BA /* Pods */,
 				80A8114751641FC63535F714 /* Frameworks */,
@@ -284,17 +303,17 @@
 		5A9DFC81210C2580009C0ECE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5A9DFC80210C2580009C0ECE /* LG CATS.app */,
-				5A9DFC97210C2584009C0ECE /* LG CATSTests.xctest */,
-				5A9DFCA2210C2584009C0ECE /* LG CATSUITests.xctest */,
+				5A9DFC80210C2580009C0ECE /* Berkeley.app */,
+				5A9DFC97210C2584009C0ECE /* BerkeleyTests.xctest */,
+				5A9DFCA2210C2584009C0ECE /* BerkeleyUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		5A9DFC82210C2580009C0ECE /* LG CATS */ = {
+		5A9DFC82210C2580009C0ECE /* Berkeley */ = {
 			isa = PBXGroup;
 			children = (
-				5A793D6D210CEAA300CC9E7A /* LG CATS.entitlements */,
+				5A793D6D210CEAA300CC9E7A /* Berkeley.entitlements */,
 				5A9DFC87210C2580009C0ECE /* Main.storyboard */,
 				5A9DFC8F210C2583009C0ECE /* LaunchScreen.storyboard */,
 				5A9DFF0F210C528B009C0ECE /* All Code */,
@@ -302,34 +321,37 @@
 				5A9DFD7D210C4CF4009C0ECE /* Images */,
 				5A9DFD97210C4D8C009C0ECE /* Assets.xcassets */,
 				5A9DFC92210C2583009C0ECE /* Info.plist */,
-				5ABFAFC021137F4C00B250E4 /* GoogleService-Info.plist */,
-				5A9DFC8A210C2580009C0ECE /* LG_CATS.xcdatamodeld */,
+				5AD7CE30216C3CED00B27B1D /* GoogleService-Info.plist */,
+				5AD7CE2D216C3A9600B27B1D /* Berkeley.xcdatamodeld */,
 			);
-			path = "LG CATS";
+			path = Berkeley;
 			sourceTree = "<group>";
 		};
-		5A9DFC9A210C2584009C0ECE /* LG CATSTests */ = {
+		5A9DFC9A210C2584009C0ECE /* BerkeleyTests */ = {
 			isa = PBXGroup;
 			children = (
 				5A9DFC9B210C2584009C0ECE /* LG_CATSTests.swift */,
 				5A9DFC9D210C2584009C0ECE /* Info.plist */,
 			);
-			path = "LG CATSTests";
+			path = BerkeleyTests;
 			sourceTree = "<group>";
 		};
-		5A9DFCA5210C2584009C0ECE /* LG CATSUITests */ = {
+		5A9DFCA5210C2584009C0ECE /* BerkeleyUITests */ = {
 			isa = PBXGroup;
 			children = (
 				5A9DFCA6210C2584009C0ECE /* LG_CATSUITests.swift */,
 				5A9DFCA8210C2584009C0ECE /* Info.plist */,
 			);
-			path = "LG CATSUITests";
+			path = BerkeleyUITests;
 			sourceTree = "<group>";
 		};
 		5A9DFD7D210C4CF4009C0ECE /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				5A9DFD7E210C4CF4009C0ECE /* LGLetters.jpeg */,
+				5A140449216EB8CA00B6A5EE /* DummyProfilePic.jpeg */,
+				5A140447216EB2AD00B6A5EE /* BerkeleySeal.png */,
+				5A133B0E216FE016006F78E7 /* dummybarcode.jpg */,
+				5AD7CE32216C400E00B27B1D /* BerkeleyLogo.png */,
 				5A9DFD7F210C4CF4009C0ECE /* LGHSLogo.jpg */,
 				5A9DFD80210C4CF4009C0ECE /* LGHSFrontLawn.jpg */,
 				5A9DFD81210C4CF4009C0ECE /* Tutorial Icons */,
@@ -408,12 +430,12 @@
 		5A9DFF1A210C528B009C0ECE /* Calendar */ = {
 			isa = PBXGroup;
 			children = (
+				5A9DFF1F210C528B009C0ECE /* CalFeed.swift */,
 				5A9DFF1B210C528B009C0ECE /* CalEvent.swift */,
 				5A9DFF1C210C528B009C0ECE /* CalEventCell.swift */,
 				5A9DFF1D210C528B009C0ECE /* CalEventFilterTVC.swift */,
 				5A9DFF1E210C528B009C0ECE /* CalEventListTVC.swift */,
 				5AF34F4821166BBB00FA6477 /* CalEventDetailTVC.swift */,
-				5A9DFF1F210C528B009C0ECE /* CalFeed.swift */,
 			);
 			path = Calendar;
 			sourceTree = "<group>";
@@ -586,6 +608,9 @@
 				94D3C55E50C009FFB0C9EDD6 /* Pods_LG_CATS.framework */,
 				17A1BE507A7C56F97960EBF3 /* Pods_LG_CATSTests.framework */,
 				8744A352B1D5C6EE30F8D4A9 /* Pods_LG_CATSUITests.framework */,
+				4313984508B59597CC0C0997 /* Pods_Berkeley.framework */,
+				DDEED69DA44CC97B7E8A3E0D /* Pods_BerkeleyTests.framework */,
+				7B1AD331385A27B6C53B62D4 /* Pods_BerkeleyUITests.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -599,6 +624,12 @@
 				835DB1F3A58EE5AE60C87EF2 /* Pods-LG CATSTests.release.xcconfig */,
 				929627240BEEB0CD4B477E91 /* Pods-LG CATSUITests.debug.xcconfig */,
 				4CB4B0582BAB969C396EAF71 /* Pods-LG CATSUITests.release.xcconfig */,
+				A2365B132528681346742CF8 /* Pods-Berkeley.debug.xcconfig */,
+				F386851822181D127BC2764C /* Pods-Berkeley.release.xcconfig */,
+				E8CBB880C28F07925F83197F /* Pods-BerkeleyTests.debug.xcconfig */,
+				CDE1DF4CDE535203B95AC52F /* Pods-BerkeleyTests.release.xcconfig */,
+				A2FDA6C421773CB351082CD8 /* Pods-BerkeleyUITests.debug.xcconfig */,
+				07A6FB1C11C003E71494A9FC /* Pods-BerkeleyUITests.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -606,9 +637,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5A9DFC7F210C2580009C0ECE /* LG CATS */ = {
+		5A9DFC7F210C2580009C0ECE /* Berkeley */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5A9DFCAB210C2584009C0ECE /* Build configuration list for PBXNativeTarget "LG CATS" */;
+			buildConfigurationList = 5A9DFCAB210C2584009C0ECE /* Build configuration list for PBXNativeTarget "Berkeley" */;
 			buildPhases = (
 				183E40C40C5263BD259459E8 /* [CP] Check Pods Manifest.lock */,
 				5A9DFC7C210C2580009C0ECE /* Sources */,
@@ -622,14 +653,14 @@
 			);
 			dependencies = (
 			);
-			name = "LG CATS";
+			name = Berkeley;
 			productName = "LG CATS";
-			productReference = 5A9DFC80210C2580009C0ECE /* LG CATS.app */;
+			productReference = 5A9DFC80210C2580009C0ECE /* Berkeley.app */;
 			productType = "com.apple.product-type.application";
 		};
-		5A9DFC96210C2584009C0ECE /* LG CATSTests */ = {
+		5A9DFC96210C2584009C0ECE /* BerkeleyTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5A9DFCAE210C2584009C0ECE /* Build configuration list for PBXNativeTarget "LG CATSTests" */;
+			buildConfigurationList = 5A9DFCAE210C2584009C0ECE /* Build configuration list for PBXNativeTarget "BerkeleyTests" */;
 			buildPhases = (
 				14D71C0316CD2AFB4CFE4AC2 /* [CP] Check Pods Manifest.lock */,
 				5A9DFC93210C2584009C0ECE /* Sources */,
@@ -641,14 +672,14 @@
 			dependencies = (
 				5A9DFC99210C2584009C0ECE /* PBXTargetDependency */,
 			);
-			name = "LG CATSTests";
+			name = BerkeleyTests;
 			productName = "LG CATSTests";
-			productReference = 5A9DFC97210C2584009C0ECE /* LG CATSTests.xctest */;
+			productReference = 5A9DFC97210C2584009C0ECE /* BerkeleyTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		5A9DFCA1210C2584009C0ECE /* LG CATSUITests */ = {
+		5A9DFCA1210C2584009C0ECE /* BerkeleyUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5A9DFCB1210C2584009C0ECE /* Build configuration list for PBXNativeTarget "LG CATSUITests" */;
+			buildConfigurationList = 5A9DFCB1210C2584009C0ECE /* Build configuration list for PBXNativeTarget "BerkeleyUITests" */;
 			buildPhases = (
 				3B638D88433C1F7909D30B3E /* [CP] Check Pods Manifest.lock */,
 				5A9DFC9E210C2584009C0ECE /* Sources */,
@@ -660,9 +691,9 @@
 			dependencies = (
 				5A9DFCA4210C2584009C0ECE /* PBXTargetDependency */,
 			);
-			name = "LG CATSUITests";
+			name = BerkeleyUITests;
 			productName = "LG CATSUITests";
-			productReference = 5A9DFCA2210C2584009C0ECE /* LG CATSUITests.xctest */;
+			productReference = 5A9DFCA2210C2584009C0ECE /* BerkeleyUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -696,7 +727,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 5A9DFC7B210C2580009C0ECE /* Build configuration list for PBXProject "LG CATS" */;
+			buildConfigurationList = 5A9DFC7B210C2580009C0ECE /* Build configuration list for PBXProject "Berkeley" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -709,9 +740,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5A9DFC7F210C2580009C0ECE /* LG CATS */,
-				5A9DFC96210C2584009C0ECE /* LG CATSTests */,
-				5A9DFCA1210C2584009C0ECE /* LG CATSUITests */,
+				5A9DFC7F210C2580009C0ECE /* Berkeley */,
+				5A9DFC96210C2584009C0ECE /* BerkeleyTests */,
+				5A9DFCA1210C2584009C0ECE /* BerkeleyUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -721,16 +752,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5A9DFD87210C4CF4009C0ECE /* LGLetters.jpeg in Resources */,
+				5AD7CE33216C400F00B27B1D /* BerkeleyLogo.png in Resources */,
+				5A133B0F216FE017006F78E7 /* dummybarcode.jpg in Resources */,
 				5A9DFD8A210C4CF4009C0ECE /* CardIcon.png in Resources */,
 				5A9DFD93210C4D03009C0ECE /* ConfigLinks.plist in Resources */,
+				5A14044A216EB8CA00B6A5EE /* DummyProfilePic.jpeg in Resources */,
 				5A9DFD95210C4D03009C0ECE /* BackendLinks.plist in Resources */,
 				5A9DFD88210C4CF4009C0ECE /* LGHSLogo.jpg in Resources */,
 				5A9DFC91210C2583009C0ECE /* LaunchScreen.storyboard in Resources */,
 				5A9DFD8B210C4CF4009C0ECE /* NewsIcon.png in Resources */,
 				5A9DFD8C210C4CF4009C0ECE /* SearchIcon.png in Resources */,
 				5A9DFD8D210C4CF4009C0ECE /* LoudspeakerIcon.png in Resources */,
-				5ABFAFC121137F4C00B250E4 /* GoogleService-Info.plist in Resources */,
+				5AD7CE31216C3CED00B27B1D /* GoogleService-Info.plist in Resources */,
+				5A140448216EB2AD00B6A5EE /* BerkeleySeal.png in Resources */,
 				5A9DFD89210C4CF4009C0ECE /* LGHSFrontLawn.jpg in Resources */,
 				5A9DFD8E210C4CF4009C0ECE /* WarningIcon.png in Resources */,
 				5A9DFC89210C2580009C0ECE /* Main.storyboard in Resources */,
@@ -768,7 +802,7 @@
 			);
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-LG CATSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-BerkeleyTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -786,7 +820,7 @@
 			);
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-LG CATS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-Berkeley-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -804,7 +838,7 @@
 			);
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-LG CATSUITests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-BerkeleyUITests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -830,7 +864,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-LG CATS/Pods-LG CATS-resources.sh",
+				"${SRCROOT}/Pods/Target Support Files/Pods-Berkeley/Pods-Berkeley-resources.sh",
 				"${PODS_ROOT}/GoogleSignIn/Resources/GoogleSignIn.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
@@ -839,7 +873,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LG CATS/Pods-LG CATS-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Berkeley/Pods-Berkeley-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		E61556148D07327ACB751AE1 /* [CP] Embed Pods Frameworks */ = {
@@ -848,7 +882,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-LG CATS/Pods-LG CATS-frameworks.sh",
+				"${SRCROOT}/Pods/Target Support Files/Pods-Berkeley/Pods-Berkeley-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/BarcodeScanner/BarcodeScanner.framework",
 				"${BUILT_PRODUCTS_DIR}/DZNEmptyDataSet/DZNEmptyDataSet.framework",
 				"${BUILT_PRODUCTS_DIR}/DynamicBlurView/DynamicBlurView.framework",
@@ -897,7 +931,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LG CATS/Pods-LG CATS-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Berkeley/Pods-Berkeley-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -908,7 +942,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				5A9DFF9A210C528C009C0ECE /* Downloader.swift in Sources */,
-				5A9DFC8C210C2580009C0ECE /* LG_CATS.xcdatamodeld in Sources */,
 				5A9DFF7A210C528C009C0ECE /* PHomeModel.swift in Sources */,
 				5A9DFF7B210C528C009C0ECE /* HomeCell.swift in Sources */,
 				5A9DFF77210C528C009C0ECE /* MenuBarMainVC.swift in Sources */,
@@ -959,6 +992,7 @@
 				5A9DFF72210C528C009C0ECE /* CalEvent.swift in Sources */,
 				5A9DFFA8210C528C009C0ECE /* ToolsTVC.swift in Sources */,
 				5A9DFF88210C528C009C0ECE /* AdminSurveyListTVC.swift in Sources */,
+				5AD7CE2F216C3A9600B27B1D /* Berkeley.xcdatamodeld in Sources */,
 				5A9DFF6F210C528C009C0ECE /* DailyAnnouncementsDetailVC.swift in Sources */,
 				5A9DFF8C210C528C009C0ECE /* CIEventRosterTVC.swift in Sources */,
 				5A9DFF91210C528C009C0ECE /* CIEvent.swift in Sources */,
@@ -1008,12 +1042,12 @@
 /* Begin PBXTargetDependency section */
 		5A9DFC99210C2584009C0ECE /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5A9DFC7F210C2580009C0ECE /* LG CATS */;
+			target = 5A9DFC7F210C2580009C0ECE /* Berkeley */;
 			targetProxy = 5A9DFC98210C2584009C0ECE /* PBXContainerItemProxy */;
 		};
 		5A9DFCA4210C2584009C0ECE /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5A9DFC7F210C2580009C0ECE /* LG CATS */;
+			target = 5A9DFC7F210C2580009C0ECE /* Berkeley */;
 			targetProxy = 5A9DFCA3210C2584009C0ECE /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -1154,20 +1188,20 @@
 		};
 		5A9DFCAC210C2584009C0ECE /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 82DE612EA636C7FF86996A91 /* Pods-LG CATS.debug.xcconfig */;
+			baseConfigurationReference = A2365B132528681346742CF8 /* Pods-Berkeley.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = "LG CATS/LG CATS.entitlements";
+				CODE_SIGN_ENTITLEMENTS = Berkeley/Berkeley.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_TEAM = NJ9TF22X38;
-				INFOPLIST_FILE = "LG CATS/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Berkeley/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.avinalabs.los-gatos-high-school";
+				PRODUCT_BUNDLE_IDENTIFIER = org.mobiledevsberkeley.theberkeleyapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1176,19 +1210,19 @@
 		};
 		5A9DFCAD210C2584009C0ECE /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A78DC517FD4E5AC5C0FE4FB7 /* Pods-LG CATS.release.xcconfig */;
+			baseConfigurationReference = F386851822181D127BC2764C /* Pods-Berkeley.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = "LG CATS/LG CATS.entitlements";
+				CODE_SIGN_ENTITLEMENTS = Berkeley/Berkeley.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = NJ9TF22X38;
-				INFOPLIST_FILE = "LG CATS/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Berkeley/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.avinalabs.los-gatos-high-school";
+				PRODUCT_BUNDLE_IDENTIFIER = org.mobiledevsberkeley.theberkeleyapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1197,7 +1231,7 @@
 		};
 		5A9DFCAF210C2584009C0ECE /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6A08E5E3335BA5790889DDA5 /* Pods-LG CATSTests.debug.xcconfig */;
+			baseConfigurationReference = E8CBB880C28F07925F83197F /* Pods-BerkeleyTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -1213,13 +1247,13 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LG CATS.app/LG CATS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Berkeley.app/Berkeley";
 			};
 			name = Debug;
 		};
 		5A9DFCB0210C2584009C0ECE /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 835DB1F3A58EE5AE60C87EF2 /* Pods-LG CATSTests.release.xcconfig */;
+			baseConfigurationReference = CDE1DF4CDE535203B95AC52F /* Pods-BerkeleyTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -1235,13 +1269,13 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LG CATS.app/LG CATS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Berkeley.app/Berkeley";
 			};
 			name = Release;
 		};
 		5A9DFCB2210C2584009C0ECE /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 929627240BEEB0CD4B477E91 /* Pods-LG CATSUITests.debug.xcconfig */;
+			baseConfigurationReference = A2FDA6C421773CB351082CD8 /* Pods-BerkeleyUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -1262,7 +1296,7 @@
 		};
 		5A9DFCB3210C2584009C0ECE /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4CB4B0582BAB969C396EAF71 /* Pods-LG CATSUITests.release.xcconfig */;
+			baseConfigurationReference = 07A6FB1C11C003E71494A9FC /* Pods-BerkeleyUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -1284,7 +1318,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5A9DFC7B210C2580009C0ECE /* Build configuration list for PBXProject "LG CATS" */ = {
+		5A9DFC7B210C2580009C0ECE /* Build configuration list for PBXProject "Berkeley" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5A9DFCA9210C2584009C0ECE /* Debug */,
@@ -1293,7 +1327,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5A9DFCAB210C2584009C0ECE /* Build configuration list for PBXNativeTarget "LG CATS" */ = {
+		5A9DFCAB210C2584009C0ECE /* Build configuration list for PBXNativeTarget "Berkeley" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5A9DFCAC210C2584009C0ECE /* Debug */,
@@ -1302,7 +1336,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5A9DFCAE210C2584009C0ECE /* Build configuration list for PBXNativeTarget "LG CATSTests" */ = {
+		5A9DFCAE210C2584009C0ECE /* Build configuration list for PBXNativeTarget "BerkeleyTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5A9DFCAF210C2584009C0ECE /* Debug */,
@@ -1311,7 +1345,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5A9DFCB1210C2584009C0ECE /* Build configuration list for PBXNativeTarget "LG CATSUITests" */ = {
+		5A9DFCB1210C2584009C0ECE /* Build configuration list for PBXNativeTarget "BerkeleyUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5A9DFCB2210C2584009C0ECE /* Debug */,
@@ -1323,13 +1357,13 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		5A9DFC8A210C2580009C0ECE /* LG_CATS.xcdatamodeld */ = {
+		5AD7CE2D216C3A9600B27B1D /* Berkeley.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				5A9DFC8B210C2580009C0ECE /* LG_CATS.xcdatamodel */,
+				5AD7CE2E216C3A9600B27B1D /* LG_CATS.xcdatamodel */,
 			);
-			currentVersion = 5A9DFC8B210C2580009C0ECE /* LG_CATS.xcdatamodel */;
-			path = LG_CATS.xcdatamodeld;
+			currentVersion = 5AD7CE2E216C3A9600B27B1D /* LG_CATS.xcdatamodel */;
+			path = Berkeley.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
